@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: 
 
 interests:
-- Applied Statistics
+- Mathematical and Applied Statistics
 - Machine Learning
-- Computational Statistics
+- Stochastic Process
+- Image processing
 
 education:
   courses:
@@ -50,18 +51,24 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://scholar.google.com/citations?user=sIwtMXoAAAAJ
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xiaomuliu
 - icon: github
   icon_pack: fab
   link: https://www.github.com/xiaomuliu
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/xiaomuliu
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/xiaomuliu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Resume_LIU_Xiaomu.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,5 +80,8 @@ user_groups:
 - Visitors
 ---
 
-Xiaomu Liu is currently a data scientist at Amazon. 
+Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in data mining, statistical inference, forecasting, machine learning, image processing and computer vision.  
+ 
+Previously, he devoted himself in research on applications of machine learning in predictive policing and of computer vision in medical imaging.
 
+In his spare time, he enjoys attending and giving seminars on the practical applications of data science and machine learning.
