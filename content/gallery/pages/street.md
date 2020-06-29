@@ -25,4 +25,4 @@ gallery_item:
 ---
 
 ## Street
-{{< gallery >}}
+{{< street >}}

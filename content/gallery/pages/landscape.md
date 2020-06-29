@@ -31,4 +31,4 @@ gallery_item:
 ---
 
 ## Landscape
-{{< gallery >}}
+{{< landscape >}}

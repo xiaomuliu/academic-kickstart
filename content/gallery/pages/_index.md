@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Photography Portfolio
-summary: Click the slide bar to view photos
+summary: Click to view photos
 weight: 1
 
 # Page metadata.
@@ -20,4 +20,3 @@ menu:
     weight: 1 
 ---
 
-## Enter
