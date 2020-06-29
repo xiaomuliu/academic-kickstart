@@ -1,8 +1,8 @@
 ---
 # Page metadata
 title: Photography
-summary: 
-authors: Xiaomu Liu
+summary: Add description here.
+date: "2020-06-28T00:00:00Z"
 draft: false  # Is this a draft? true/false
 ---
 
