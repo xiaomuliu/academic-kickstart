@@ -1,14 +1,17 @@
 ---
+# Page metadata
 title: Photography Portfolio
-layout: docs  # Do not modify.
-featured: true  
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+summary: 
+date: "2020-06-28T00:00:00Z"
+draft: false  # Is this a draft? true/false
+featured: true
 ---
 
+## Landscape
+{{< gallery album="landscape" >}}
 
+## Street
+{{< gallery album="street" >}}
 
+## Portrait
 
