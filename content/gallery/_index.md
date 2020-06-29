@@ -1,8 +1,6 @@
 ---
 # title, summary, and position.
-linktitle: Photography Portfolio
 summary: Click one of the categories to view photos.
-weight: 1
 
 # Page metadata.
 title: Photography Portfolio
@@ -15,7 +13,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: All photos
+    name: Photography Portfolio
     weight: 1
 ---
 

@@ -6,11 +6,12 @@ type: docs
 draft: false
 menu:
   example:
-    parent: All photos
+    parent: Photography Portfolio
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
 ---
 
+## Street
 {{< gallery album="street" >}}
