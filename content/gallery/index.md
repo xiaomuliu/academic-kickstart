@@ -1,12 +1,20 @@
-+++
-# Gallery section using the Blank widget and Gallery element (shortcode).
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 66  # Order that this section will appear.
+---
+# Course title, summary, and position.
+linktitle: Travel photography
+summary: 
+weight: 1
 
-title = "Gallery"
-subtitle = ""
-+++
+# Page metadata.
+title: Travel Photo
+date: "2020-06-09T00:00:00Z"
+lastmod: "2020-06-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 
-{{< gallery >}}
+---
+
+## Test
+{{< gallery album="gallery" >}}
+
+
