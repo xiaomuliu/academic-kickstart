@@ -15,7 +15,7 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
+  pages:
     name: Photography Portfolio
     weight: 1 
 ---

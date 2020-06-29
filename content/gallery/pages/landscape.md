@@ -5,7 +5,7 @@ toc: true
 type: docs
 draft: false
 menu:
-  example:
+  pages:
     parent: Photography Portfolio
     weight: 1
 
