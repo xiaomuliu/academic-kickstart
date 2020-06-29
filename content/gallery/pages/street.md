@@ -13,16 +13,16 @@ menu:
 weight: 2
 
 gallery_item:
-- album: street
+- album: gallery
   image: DSCF3296.jpg
   caption: 
-- album: street
+- album: gallery
   image: DSCF3543.jpg
   caption: 
-- album: street
+- album: gallery
   image: DSCF3589.jpg
   caption: 
 ---
 
 ## Street
-{{< street >}}
+{{< gallery >}}

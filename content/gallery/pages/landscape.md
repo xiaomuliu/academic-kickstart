@@ -13,22 +13,22 @@ menu:
 weight: 1
 
 gallery_item:
-- album: landscape
+- album: gallery
   image: DSCF0239.jpg
   caption: 
-- album: landscape
+- album: gallery
   image: DSCF0688.jpg
   caption: 
-- album: landscape
+- album: gallery
   image: DSCF1224.jpg
   caption: 
-- album: landscape
+- album: gallery
   image: DSCF1262.jpg
   caption: 
-- album: landscape
+- album: gallery
   image: IMG1089.jpg
   caption: 
 ---
 
 ## Landscape
-{{< landscape >}}
+{{< gallery >}}
