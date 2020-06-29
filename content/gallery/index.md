@@ -1,13 +1,14 @@
 ---
 # Page metadata
-title: Photography
+title: Photography Portfolio
 summary: Add description here.
 date: "2020-06-28T00:00:00Z"
 draft: false  # Is this a draft? true/false
+featured: true
 ---
 
-## Test
-this is a test.
+## Click one of the categories to view photos
+
 {{< gallery album="gallery" >}}
 
 
