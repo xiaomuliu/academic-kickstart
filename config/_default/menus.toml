@@ -24,6 +24,11 @@
 #  weight = 40
 
 [[main]]
+  name = "About me"
+  url = "about_me/"
+  weight = 20
+
+[[main]]
   name = "Gallery"
   url = "gallery/"
   weight = 50
