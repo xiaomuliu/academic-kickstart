@@ -16,19 +16,19 @@ header:
 
 ## About me experience
 
-### work
+### Work
 Currently I am a data scientist at Amazon.
 
-### about data science
+### About data science
 
 
 ## What I do in my spare time
 
-### music
+### Music
 {{< figure src="music.jpg" title="" lightbox="true" >}}
 
-### travel and photography
+### Travel and photography
 {{< figure src="travel.jpg" title="" lightbox="true" >}}
 
-### literature and history
+### Literature and history
 
