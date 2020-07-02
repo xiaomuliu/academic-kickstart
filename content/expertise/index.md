@@ -25,6 +25,7 @@ Frequentist and Bayesian inference, estimation theory, hypothesis testing, regre
 supervised and unsupervised learning algorithms (regresion, classification, clustering, and dimension reduction), anomaly detection, probabilistic graphical models
 
 {{< figure src="statistical_learning.png" title="" lightbox="true" >}}
+{{< figure src="kernel_machine.png" title="" lightbox="true" >}}
 {{< figure src="Bayesian_network.png" title="" lightbox="true" >}}
 
 ### Stochastic process
