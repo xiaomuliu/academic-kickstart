@@ -14,11 +14,6 @@
 #  weight = 20
 
 #[[main]]
-#  name = "Projects"
-#  url = "#projects"
-#  weight = 30
-
-#[[main]]
 #  name = "Publications"
 #  url = "#featured"
 #  weight = 40
@@ -27,6 +22,11 @@
   name = "About me"
   url = "about_me/"
   weight = 20
+
+[[main]]
+  name = "Projects"
+  url = "projects/"
+  weight = 30
 
 [[main]]
   name = "Gallery"
