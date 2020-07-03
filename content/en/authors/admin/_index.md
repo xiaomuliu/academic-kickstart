@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in data mining, statistical inference, forecasting, machine learning, image processing and computer vision. Previously, he devoted himself in research on applications of machine learning in predictive policing and of computer vision in medical imaging. He enjoys attending and giving seminars on the practical applications of data science and machine learning.
+Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in data mining, statistical inference, forecasting, machine learning, image processing and computer vision. Previously, he devoted himself in research on applications of machine learning in Internet of Things (IoT), predictive policing and of computer vision in medical imaging.

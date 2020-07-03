@@ -1,6 +1,6 @@
 ---
 # Page metadata
-title: About me
+title: 关于我
 summary: A brief introduction about me
 date: "2020-06-29T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -14,29 +14,29 @@ header:
   image: ""
 ---
 
-## My experience
+## 我的经历
 
-### About my work
-I am currently a data scientist at Amazon. Previously, I worked at Uptake, an IoT SaaS company, the Chicago police department, and medical imaging research center at Illinois Institute of Technology, with the focuses on the application of statistics, machine learning and pattern recognition in academic research and industry work. Please refer to my resume.
+### 关于我的工作
+我目前再亚马逊任职数据科学家。在此前，我在工业物联网企业，司法警务部门和医学影像实验室从事统计、机器学习、图像模式识别等领域的研究和实践工作。具体经历详见简历。
 
-### About data science
-Although my role is a data scientist, I prefer being called a statistician or even economics in order to distinguish from a software engineering who is specialized in machine learning. Also, in my opinion, technically speaking, data science is not science as it has neither established an axiomatic system nor developed a mature methodology. Essentially, it is not that much different from, for instance, Physics, in terms of modeling methodology. It is more like an extension of many traditional areas. Specifically, it leaves the complex problems that are either high dimensional or too difficult to be tackled via experiments and inference by human intelligence, to be handled by statistical learning models fitting the data, and eventually simplifies the problems for further inference or prediction (This claim might not be held true due to the fast evolving self-learning AI in recent year).
+### 关于数据科学
+尽管我目前的职位是数据科学家，我还是更愿意被称为从事统计学或经济学的工作者, 已区别于实现机器学习算法的软件工程师。同时就我本人看来，数据科学还没独立出一个属于它自己的公理或者方法学体系。其本质与传统的例如物理学的建模方法并无巨大的差别，更多的是对后者的延申，也即，对于高维的，难以靠实验和人工推理的问题交由统计机器学习模型进行简化，抽象（当然近些年人工智能领域兴起的自主学习也许会打破这个说法）。
 
-I used to study engineering in school and happened to have a chance to do research for a social science topic. When I was doing literature review, I noticed that often for one concept, people with different academic backgrounds tend to interpret it in different ways. For example, there is an intersection in stochastic process where people doing signal processing, control theory, economics, or even physics share similar interests. They study it from different point of views despite the same essence.  Nevertheless, these multiple viewpoints made me have deeper understandings of many concepts. And I really enjoy that Aha moment. You can’t see the forest for the trees! That’s why, in my spare time, I like watching videos by [3Blue1Brown](https://www.3blue1brown.com/) (a YouTube channel created by Grant Sanderson). It focuses on higher mathematics and physics with a distinct visual perspective.
+因为我早先在学校时主修的是工程方面，后来因为研究课题需求，要应用一些方法到社会学问题。在查资料时，我常常会发现对于同一概念，不同领域的人士会用不同的语言来阐释。比如一些随机过程的理论，信号处理，控制论，经济学甚至物理学的会从不同的角度去看，但是最终殊途同归。自此我开始很享受那种对同一事物的不同角度的理解，然后突然明白一个道理，惊叹“啊哈”的一刻。“不识庐山真面目， 只因身在此山中”。比如我业余时间很喜欢看[3Blue1Brown](https://www.3blue1brown.com/)的视频（一个由 Grant Sanderson 创建的YouTube 频道）。该频道从独特的视觉角度解说高等数学，物理学，使人醍醐灌顶。
 
-In my professional life, I also like to leverage all kinds of models or tools to help people who are not experts in a certain area understand a problem in a way that they are comfortable with, which I think is one of the highlights of data science: extract the signal from the noise, then translate it into actionable insights. Please refer to my expertise.
+在我的职业工作中，我很喜欢运用各种相关的工具来帮助非专业人士从不同的角度理解问题。我想这就是数据科学的功能之一吧：从数据中提取出有价值的部分（信号），进一步抽象简化，形成可以付之行动的见解。我也热衷于参加各类关于数据科学的研讨会，通过讨论和教学来提高自己对概念的认知。
 
 
-## What I do in my spare time
+## 我的业余生活
 
-### Music
-I have a wide range of interests (not master in most of them though :( ). I used to play piano for about 7 years when I was a kid. But since I was 14 years old, I had not touched it again for 15 years until about 5 years ago I decided to pick up this rusty skill. I am also learning to play ukulele. I love classical music, especially those works in late Classical period and Romantic era. My favorite works include Beethoven’s Sonata No. 8 Op. 13 (Pathetique) and violin concerto in D major, Tchaikovsky’s Piano Concerto No.1 and Violin Concerto in D major. I believe the magic of art is to arouse sympathy. Maybe the reason why I love these masterpieces is because I strongly feel the connections when I listen to them.
+### 音乐
+我涉猎广泛（但是惭愧的是都不精通）。小时曾经学过7，8年钢琴，后来15年左右再没有摸过琴。现在偶儿借助电钢琴恢复一下生锈的技艺。另外在学习尤克里里。平时较多听古典音乐，尤其是古典主义后期和浪漫主义时期的作品。个人最喜欢的作品有贝多芬的第8号钢琴奏鸣曲（别名：悲怆）、D大调小提琴协奏曲，柴可夫斯基的第一钢琴协奏曲、D大调小提琴协奏曲。我个人认为艺术的感染力在于让听者、观者产生共鸣，将自身的经历附于作品的情感中。可能我之所以喜欢这些作品是它们很容易让我产生共鸣吧。
 {{< figure src="music.jpg" title="" lightbox="true" >}}
 
-### Travel and photography
-I am fascinated with hiking and exploring the outdoors. Since I'm interested in history, when I go to a historical site that plays an importance role in human civilization, I always get emotional. Breathtaking nature sceneries and cultural heritage sites make me feel humble and realize how insignificant I am in front of Mother Nature and long history. Of course, I have taken tons of photos for those places that I have visited. Photography is one of my hobbies.
+### 旅行和摄影
+我在空闲时间经常会独自一人去徒步，探索自然或者人文景观。可能因为我很爱读历史方面的书吧，所以走到那些在人类文明历史上留下浓重一笔的地方总是很有感触。看到震撼的自然景色和人文遗迹常常会感慨自身的在大自然面前和历史长河中的渺小。当然每到一处，我必用相机来记录所见，故摄影也是我一大爱好。
 {{< figure src="travel.jpg" title="" lightbox="true" >}}
 
-### Literature and history
-In my spare time, I like reading Chinese literature books, some of which are the ones that I used to read when I was young but were not fully digested. I’m particular interested in [the Hundred Schools of Thought](https://en.wikipedia.org/wiki/Hundred_Schools_of_Thought) during the Spring and Autumn period and the Warring States period of ancient China, [Tang poetry](https://en.wikipedia.org/wiki/Tang_poetry), [the Ci](https://en.wikipedia.org/wiki/Ci_\(poetry\)) (a type of lyric poetry), [the Qu](https://en.wikipedia.org/wiki/Qu_\(poetry\)) (another type of classical Chinese poetry form), and novels in Ming and Qing dynasty. My favorites include: [Records of the Grand Historian](https://en.wikipedia.org/wiki/Records_of_the_Grand_Historian) (a.k.a Shiji), poems by [Li Bai](https://en.wikipedia.org/wiki/Li_Bai), [Su Shi](https://en.wikipedia.org/wiki/Su_Shi) and [Cao Cao](https://en.wikipedia.org/wiki/Cao_Cao), [the Four Classic Novels](https://en.wikipedia.org/wiki/Classic_Chinese_Novels)(Romance of the Three Kingdoms, Journey to the West, Water Margin and Dream of the Red Chamber), [Fortress Besieged](https://en.wikipedia.org/wiki/Fortress_Besieged) by Qian Zhongshu, and [Thunderstorm](https://en.wikipedia.org/wiki/Thunderstorm_(play)) by Cao Yu. Other than literature, I am also into history and military. I spend lots of time studying literature, historical documents, and video productions for periods such as [Eastern Zhou](https://en.wikipedia.org/wiki/Eastern_Zhou), [the Chu–Han Contention](https://en.wikipedia.org/wiki/Chu%E2%80%93Han_Contention), [the Three Kingdoms](https://en.wikipedia.org/wiki/Three_Kingdoms), the history of Europe post-18th century.
+### 文学和历史
+业余时间我也会读一些文学作品，当然现在常常是重读小时候读过的，消耗曾经没有理解的东西或是产生新的感触。先秦的诸子百家，唐诗宋词元曲，明清小说都大量涉猎。喜读《史记》，亦颇爱李白，苏轼，曹操的诗辞。当然不免脱俗的四大名著。近现代的作品个人喜爱钱钟书的《围城》，曹禺的《雷雨》。除此以外，我也很喜欢研究中外历史和军事，尤其是乱世时期，如东周，楚汉，三国，17世纪后的欧洲近现代史。常常对它们的文学，影视，史料的看得乐此不疲。
 {{< figure src="reading.jpg" title="" lightbox="true" >}}

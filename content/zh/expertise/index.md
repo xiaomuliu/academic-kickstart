@@ -1,6 +1,6 @@
 ---
 # Page metadata
-title: Expertise
+title: 专长
 summary: expertise
 date: "2020-07-01T00:00:00Z"
 draft: false  
@@ -14,33 +14,33 @@ header:
   image: ""
 ---
 
-### Mathematical and applied statistics
+### 数理和应用统计
 
-Frequentist and Bayesian inference, estimation theory, hypothesis testing, regression analysis, sampling theory, design of experiments
+频率学派和贝叶斯学派推断, 参数估计理论, 假设检验, 回归分析, 采样理论, 实验设计等
 
 {{< figure src="hypothesis_testing.png" title="" lightbox="true" >}}
 {{< figure src="Bayesian_updating.png" title="" lightbox="true" >}}
 
-### Machine learning
-supervised and unsupervised learning algorithms (regresion, classification, clustering, and dimension reduction), anomaly detection, probabilistic graphical models
+### 机器学习
+常见回归，分类，聚类，降维的模型, 异常检测, 图模型等
 
 {{< figure src="statistical_learning.png" title="" lightbox="true" >}}
 {{< figure src="kernel_machine.png" title="" lightbox="true" >}}
 {{< figure src="Bayesian_network.png" title="" lightbox="true" >}}
 
-### Stochastic process
-time series analysis, signal processing, image processing, state-space models
+### 随即过程
+时间序列分析, 信号处理, 图像处理, 状态空间模型等
 
 {{< figure src="time_series_decomposition.png" title="" lightbox="true" >}}
 {{< figure src="Fourier_transform.png" title="" lightbox="true" >}}
 
-### Optimization
-linear and nonlinear programming
+### 最优化
+线性和非线性规划及其常用数值算法
 
 {{< figure src="linear_programming.png" title="" lightbox="true" >}}
 {{< figure src="gradient_descent.png" title="" lightbox="true" >}}
 
-### Computational statistics
-Monte Carlo simulation
+### 计算统计学
+基于蒙特卡洛方法的模拟，EM算法等
 
 {{< figure src="MCMC.png" title="" lightbox="true" >}}

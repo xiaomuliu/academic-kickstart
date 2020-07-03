@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: 数据科学家
 
 # Organizations/Affiliations
 organizations:
@@ -20,23 +20,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-兴趣:
+interests:
 - 数理和应用统计
 - 机器学习
-- Stochastic process
-- Data visualization
-- Image processing
+- 随机过程
+- 数据可视化
+- 图像处理
 
 education:
   courses:
-  - course: Ph.D in Electrical Engineering
+  - course: Ph.D in 电子工程
     institution: Illinois Institute of Technologyy
     year: 2017
-  - course: M.S in Electrical Engineering
+  - course: M.S in 电子工程
     institution: Illinois Institute of Technology
     year: 2012
-  - course: B.S in Biomedical Engineering
-    institution: Fudan University
+  - course: B.S in 生物医学工程
+    institution: 复旦大学
     year: 2009
 
 # Social/Academic Networking
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in data mining, statistical inference, forecasting, machine learning, image processing and computer vision. Previously, he devoted himself in research on applications of machine learning in predictive policing and of computer vision in medical imaging. He enjoys attending and giving seminars on the practical applications of data science and machine learning.
+刘晓牧目前是在亚马逊任职数据科学家。 他热衷于用数据揭示未知和解决实际应用问题。 他在数据挖掘，统计建模，推断，预测， 机器学习， 图像处理和计算机视觉等领域有着丰富的理论和实践经验。 在此之前，他曾从事机器学习在物联网，预测警务和医学图像等领域应用的研究工作。
