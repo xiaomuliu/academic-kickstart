@@ -1,6 +1,6 @@
 ---
 # Page metadata
-title: 专长
+title: 专长领域
 summary: expertise
 date: "2020-07-01T00:00:00Z"
 draft: false  
