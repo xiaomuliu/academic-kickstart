@@ -12,11 +12,6 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
-gallery_item:
-- album: gallery
-  image: bda_cover.png
-  caption: A caption
-
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
@@ -28,4 +23,4 @@ menu:
 
 ## BDA3 exercises
 
-{{< gallery >}}
+{{< figure src="bda_cover.png" title="" lightbox="true" >}}
