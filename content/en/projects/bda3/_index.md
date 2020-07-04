@@ -24,5 +24,3 @@ menu:
 ## BDA3 exercises
 
 {{< figure src="bda_cover.png" title="" lightbox="true" >}}
-Estimating a rate from Poisson data (BDA3 p.45)
-
