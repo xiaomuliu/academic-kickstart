@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
-linktitle: BDA3
-summary: BDA3 demo
+linktitle: Bayesian Data Analysis Demos
+summary: Demos for the book Bayesian Data Analysis, 3rd ed by Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin (BDA3)
 weight: 1
 
 # Page metadata.
@@ -12,13 +12,20 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
+gallery_item:
+- album: gallery
+  image: bda_cover.png
+  caption: A caption
+
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
   bda3:
     name: Overview
-    weight: 1
+    weight: 1  
 ---
 
-## Chapters
+## BDA3 exercises
+
+{{< gallery >}}

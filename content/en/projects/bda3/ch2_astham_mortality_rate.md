@@ -3,7 +3,7 @@ title: Estimating a rate from Poisson data (BDA3 Ch 2 p.45)
 date: 2020-07-01T16:58:03-07:00
 draft: false
 
-linktitle: Estimating a rate from Poisson data
+linktitle: Tips 1-2
 toc: true
 type: docs
 
