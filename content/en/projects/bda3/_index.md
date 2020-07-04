@@ -24,3 +24,5 @@ menu:
 ## BDA3 exercises
 
 {{< figure src="bda_cover.png" title="" lightbox="true" >}}
+
+[Repository](https://www.github.com/xiaomuliu/Bayesian_Data_Analysis)

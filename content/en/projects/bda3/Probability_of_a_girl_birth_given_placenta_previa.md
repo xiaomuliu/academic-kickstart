@@ -1,5 +1,5 @@
 ---
-title: Probability of a girl birth given placenta previa (BDA3 Ch2 p. 37)
+title: Probability of a girl birth given placenta previa (BDA3 Ch2 p.37)
 date: 2020-07-01T16:58:03-07:00
 draft: false
 
@@ -16,7 +16,7 @@ menu:
 weight: 2
 ---
 
-Probability of a girl birth given placenta previa (BDA3 p. 37). 437 girls and 543 boys have been observed. Calculate and plot the posterior distribution of the proportion of girls $\theta$, using uniform prior on $\theta$.
+Probability of a girl birth given placenta previa (BDA3 p.37). 437 girls and 543 boys have been observed. Calculate and plot the posterior distribution of the proportion of girls $\theta$, using uniform prior on $\theta$.
 
 
 ```python
