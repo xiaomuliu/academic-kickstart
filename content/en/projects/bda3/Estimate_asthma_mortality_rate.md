@@ -1,3 +1,20 @@
+---
+title: Estimating a rate from Poisson data (BDA3 Ch 2 p.45)
+date: 2020-07-01T16:58:03-07:00
+draft: false
+
+linktitle: Estimating a rate from Poisson data
+toc: true
+type: docs
+
+menu:
+  bda3:
+    parent: Chapter 2
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
 
 Estimating a rate from Poisson data (BDA3 p.45)
 
