@@ -16,6 +16,8 @@ menu:
 weight: 1
 ---
 
+Estimating a rate from Poisson data (BDA3 p.45)
+
 
 ```python
 import numpy as np
@@ -56,7 +58,6 @@ ax2.set_xlabel(r'$\theta$');
 
 ![png](./Estimate_asthma_mortality_rate_3_0.png)
 
-{{< figure src="Estimate_asthma_mortality_rate_3_0.png" title="" lightbox="true" >}}
 
 ### Random samples from posterior distributions
 
