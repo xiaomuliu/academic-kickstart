@@ -16,7 +16,7 @@ header:
 
 ### 数理和应用统计
 
-频率学派和贝叶斯学派推断, 参数估计理论, 假设检验, 回归分析, 采样理论, 实验设计等
+频率学派和贝叶斯学派推断, 参数估计理论, 假设检验, 回归分析, 抽样理论, 实验设计等
 
 {{< figure src="hypothesis_testing.png" title="" lightbox="true" >}}
 {{< figure src="Bayesian_updating.png" title="" lightbox="true" >}}
