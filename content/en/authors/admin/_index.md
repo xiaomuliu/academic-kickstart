@@ -21,11 +21,13 @@ organizations:
 bio: 
 
 interests:
-- Mathematical and applied statistics
-- Machine learning
-- Stochastic process
-- Data visualization
-- Image processing
+- Mathematical and Applied Statistics
+- Randomized Controlled Trials 
+- Causal Inference
+- Machine Learning
+- Stochastic Process
+- Data Visualization
+- Image Processing
 
 education:
   courses:
@@ -81,4 +83,4 @@ user_groups:
 - Visitors
 ---
 
-Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in data mining, statistical inference, forecasting, machine learning, image processing and computer vision. Previously, he devoted himself in research on applications of machine learning in Internet of Things (IoT), predictive policing and of computer vision in medical imaging.
+Xiaomu Liu is currently a data scientist at Amazon. He is passionate about using data to unveil the unknowns and to solve real-world problems. He has extensive hands-on experience in A/B testing, statistical inference, forecasting, causal inference, machine learning, and computer vision. Previously, he devoted himself in research on applications of machine learning in Internet of Things (IoT), predictive policing and of computer vision in medical imaging.
